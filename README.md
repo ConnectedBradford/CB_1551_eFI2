@@ -1,16 +1,20 @@
-# CB_NNNN_Template - Title of the study from your EOI eg: CY PNN-NN-NN - A multi source analysis of this and that using AI 
+# CB_1551 - Development and national implementation of eFI2, eFalls Predictor
 
-## Predicting health factors using AI to describe a pathway between something
-Description of the project- from EOI
 
-What this repository should contain: 
+## AIM - To develop and evaluate an improved prognostic tool, the eFI2, to support identification of older people with different levels of frailty.
 
-This repository is used to store all the code you used to build your projects output. It should include all the final outputs and also this readme should be amended to reflect:
+## Research questions
+1.	Does the inclusion of additional deficits, such as those representing mental health, improve the predictive performance of the eFI?
+2.	Can the predictive performance of the eFI be improved by modelling outcomes jointly
+3.	Can the eFI frailty categories be refined by mapping to research standard frailty measures, or through incorporation of simple clinical measures?
 
-1) What the project was about.
-2) Did you use R, Python or both ?
-3) How did you build the cohort (if applicable)
-4) How did you build any temporary objest in R or Python, or in bigquery
-5) What issues did you run into and how were these solved.
 
-Upload the code used into the code folder, and any documentation into the docs folder. 
+Development and external validation of the eFalls tool: a multivariable prediction model for the risk of ED attendance or hospitalisation with a fall or fracture in older adults
+
+Links to articles below: 
+
+https://www.bbc.co.uk/news/articles/c6py1x3l090o
+
+https://www.leeds.ac.uk/main-index/news/article/5570/using-nhs-data-to-predict-patients-risk-of-falling
+
+https://academic.oup.com/ageing/article/53/3/afae057/7633682?searchresult=1&login=false#445280255
